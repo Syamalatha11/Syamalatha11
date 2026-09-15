@@ -5,7 +5,6 @@ I build small, reproducible ML projects and explore data analytics workflows. Cu
 
 📫 Get in touch
 - LinkedIn: https://www.linkedin.com/in/n-pushpa-syamalatha-75421b371
-- Email: your-email@example.com (add an email if you want contacts)
 
 🛠️ Skills
 - Languages: Python, SQL, Java
